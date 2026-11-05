@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_pdf"
+version = "0.1.0"
+edition = "2021"
+description = "PDF integration for creative workflows — vector-accurate PDF export, pre-press, color separations"
+
+[lib]
+name = "sigmaos_craft_pdf"
+path = "src/lib.rs"
