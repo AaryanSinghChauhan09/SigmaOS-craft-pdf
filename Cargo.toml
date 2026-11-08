@@ -2,7 +2,8 @@
 name = "sigmaos_craft_pdf"
 version = "0.1.0"
 edition = "2021"
-description = "PDF integration for creative workflows — vector-accurate PDF export, pre-press, color separations"
+license = "MIT"
+description = "SigmaOS craft-pdf component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_craft_pdf"
