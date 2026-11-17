@@ -3,7 +3,7 @@ name = "SigmaOS-craft-pdf"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "PDF integration for creative workflows — vector-accurate PDF export, pre-press, color separations"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
